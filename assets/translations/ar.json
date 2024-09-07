@@ -1,0 +1,21 @@
+{
+  "theme":"المظهر",
+  "light":"نهاري",
+  "dark":"ليلي",
+  "language":"اللغة",
+  "arabic":"عربي",
+  "english":"إنجليزي",
+  "add New Task": "إضافة مهمة جديدة",
+  "select Time":"حدد الوقت",
+  "title": "عنوان",
+  "task details": "وصف",
+  "add task": "إضافة مهمة",
+  "settings": "الإعدادات",
+  "home": "الصفحة الرئيسية",
+  "todo app":"تطبيق تودو",
+  "edit task": "تعديل المهمه",
+  "save changes": "حفظ التغييرات",
+  "logout": "تسجيل الخروج",
+  "sign up": "قم بالتسجيل",
+  "login": "تسجيل الدخول"
+}

@@ -1,0 +1,23 @@
+{
+  "theme":"Theme",
+  "light":"Light",
+  "dark":"Dark",
+  "language":"Language",
+  "arabic":"Arabic",
+  "english":"English",
+  "add New Task": "Add new task",
+  "select Time":"Select time",
+  "title": "Title",
+  "task details": "Task details",
+  "add task": "Add task",
+  "settings": "Settings",
+  "home": "Home",
+  "todo app":"Todo app",
+  "edit task": "Edit task ",
+  "save changed": "Save changes",
+  "logout": "Logout",
+  "sign up": "Sign up",
+  "login": "Login"
+
+
+}
